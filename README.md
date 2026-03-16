@@ -1,6 +1,6 @@
-# Auto-Analgesia Safety System (AASS) - Formal Verification
-**COMP41820 - AI & Ethics | University College Dublin (Spring 2026)**  
-**Authors:** Kalyan & Adam
+# Auto-Analgesia Safety System (AASS) 
+**COMP41820 - AI & Ethics | University College Dublin**  
+**Authors:** Kalyan Kumar & Adam Brennan
 
 ## Project Overview
 This repository contains the symbolic logic verification for the **Auto-Analgesia Safety System (AASS)**, a conceptual autonomous post-operative opioid administration pump. 
